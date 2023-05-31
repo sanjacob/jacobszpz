@@ -12,7 +12,7 @@ My preferred programming languages are C++, Java, Python, and Dart.
 
 ### Cloud
 I have used Firebase in mobile apps, integrating authentication, storage, and database. I have also used AWS to create
-virtual machines with EC2 and Lightsail, as well as static websites using Amplify. Finally, I have a some experience with
+virtual machines with EC2 and Lightsail, as well as static websites using Amplify. Finally, I have some experience with
 Azure VMs.
 
 ### UI
