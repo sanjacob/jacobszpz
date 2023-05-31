@@ -7,6 +7,18 @@ numbers, which has over 18k downloads on PyPI. I am also part of @MagicWeAre, th
 Feel welcome to take a look at my work by browsing my repositories.
 
 
+## Technologies
+My preferred programming languages are C++, Java, Python, and Dart.
+
+### Cloud
+I have used Firebase in mobile apps, integrating authentication, storage, and database. I have also used AWS to create
+virtual machines with EC2 and Lightsail, as well as static websites using Amplify. Finally, I have a some experience with
+Azure VMs.
+
+### UI
+I have worked entensively with Qt and Gtk to create top notch desktop user experiences.
+
+
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjacob/)
 [![lichess](https://img.shields.io/badge/-lichess-black?logo=lichess&logoColor=white)](https://lichess.org/@/sanjacob)
