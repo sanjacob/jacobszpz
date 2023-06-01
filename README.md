@@ -16,8 +16,19 @@ virtual machines with EC2 and Lightsail, as well as static websites using Amplif
 Azure VMs.
 
 ### UI
-I have worked entensively with Qt and Gtk to create top notch desktop user experiences.
+In desktop, I have worked entensively with Qt and Gtk to create top notch user experiences.
+As for mobile, I have mostly worked with two frameworks: Flutter and Android Layouts.
 
+### Web
+My first development experience was actually in web, using plain HTML, CSS and JavaScript. After that, I taught myself
+PHP and MySQL, both of which I used when I created my first dynamic website, [youclan][youclan].
+Afterwards I also learned about creating backends with Django, express.js, and Nest.js, which I have paired with frontends
+featuring Vue.js and Svelte.
+
+### Embedded
+I have extensive experience with Zephyr RTOS and the nRF Connect SDK to create embedded software, for hardware
+which I have at times designed myself. One example of this is my final year project, where I designed and implemented
+an inertial measurement unit from the ground up.
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjacob/)
@@ -33,6 +44,7 @@ You can find me on [Twitter][twitter].
 [curp]: https://en.wikipedia.org/wiki/Unique_Population_Registry_Code
 [twitter]: https://twitter.com/jacobszpz
 [hcapp]: https://play.google.com/store/apps/details?id=uk.co.roslyns.stocktaking_calculator
+[youclan]: https://github.com/jacobszpz/youclan
 
 <!--
 Here are some ideas to get you started:
