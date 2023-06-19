@@ -4,7 +4,8 @@
 [![Twitter](https://img.shields.io/badge/-twitter-blue?logo=twitter&logoColor=white)][twitter]
 
 I am Jacob, a recent BSc (Hons) Software Engineering graduate from UCLan with a passion for creating quality software
-and contributing to open source projects. I maintain [CURPSuite][curpsuite], a library to parse and validate [CURP][curp]
+and contributing to open source projects. I created [BlackboardSync][bbsync] to automatically download the files
+I have on Blackboard to my devices. I also maintain [CURPSuite][curpsuite], a library to parse and validate [CURP][curp]
 numbers, which has over 18k downloads on PyPI. I am also part of @MagicWeAre, the freelance mobile development team behind
 [Hospitality Calculators][hcapp], released for both Android and iOS, with an install base of thousands of users.
 
@@ -42,6 +43,7 @@ an inertial measurement unit from the ground up.
 [twitter]: https://twitter.com/jacobszpz
 [hcapp]: https://play.google.com/store/apps/details?id=uk.co.roslyns.stocktaking_calculator
 [youclan]: https://github.com/jacobszpz/youclan
+[bbsync]: https://github.com/jacobszpz/BlackboardSync
 
 <!--
 Here are some ideas to get you started:
